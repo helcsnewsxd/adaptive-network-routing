@@ -1,3 +1,10 @@
+> [!note]
+> This repository contains the design, implementation, and analysis of routing algorithms over simulated computer networks. Developed as part of the Distributed Systems and Networking course at FAMAF – Universidad Nacional de Córdoba.
+>
+> The project focuses on optimizing routing in ring topologies and implementing a general-purpose adaptive routing algorithm suitable for arbitrary network structures. The implementation assumes static topologies and leverages Omnet++ for simulation.
+>
+> The rest of the documentation is in Spanish as it was originally written for academic evaluation.
+
 # Lab 4 INFORME
 
 # **Análisis e Implementación de Algoritmos de Enrutamiento de la Capa de Red en Networks simulados en Omnet++**
